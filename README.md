@@ -28,7 +28,8 @@
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-%23007ACC?style=flat&logo=JetBrains)](https://www.jetbrains.com/idea/)
 [![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-%233DDC84?style=flat&logo=Android%20Studio)](https://developer.android.com/studio)
-[![Eclipse IDE](https://img.shields.io/badge/IDE-Eclipse-%=2E10B?style=flat&logo=Eclipse%20IDE)](https://www.eclipse.org/ide/)
+[![Eclipse IDE](https://img.shields.io/badge/IDE-Eclipse-%23E10B?style=flat&logo=Eclipse%20IDE)](https://www.eclipse.org/ide/)
+
 
 
 
