@@ -1,5 +1,3 @@
-
-preview
 <h1 align="center">Hi 👋, I'm Sahiru</h1>
 <h2 align="center">A passionate Full Stack developer</h2>
 
